@@ -254,6 +254,6 @@ weighted avg       0.88      0.84      0.84      2000
 再说一下后续的优化点，可以看到目前的方法中是没有使用到key-bert 的关键词，下图可以看到，一些核心的词语比语意更加重要。
 ![](https://picgo-1305561115.cos.ap-beijing.myqcloud.com/img/20240815112045.png)
 ## 参考资料
-https://mp.weixin.qq.com/s/H9oY4OaFWGJuwAoboLpcLw
-https://github.com/KMnO4-zx/TinyRAG/tree/master
+https://mp.weixin.qq.com/s/H9oY4OaFWGJuwAoboLpcLw  
+https://github.com/KMnO4-zx/TinyRAG/tree/master  
 https://arxiv.org/abs/2305.02105
